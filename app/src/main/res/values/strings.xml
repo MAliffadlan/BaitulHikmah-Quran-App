@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Baitul Hikmah Qur\'an</string>
+    <string name="txt_qur_anquh">QuranQu</string>
+    <string name="txt_assalamualaikum">Assalamualaikum</string>
+    <string name="txt_koma">,</string>
+    <string name="txt_daftar_surah">Daftar Surah</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_maps_key">AIzaSyCE5Xfn8k5wVxiyN2RSB0pRVw768ecePyI</string>
+</resources>
